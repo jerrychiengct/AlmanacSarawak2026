@@ -46,7 +46,7 @@ An all-in-one Android application designed for Sarawakians, featuring a comprehe
 
 ## Installation
 
-1.  Download the latest APK from the [Releases](https://github.com/yourusername/AlmanacSarawak2026/releases) page.
+1.  Download the latest APK from the [Releases](https://github.com/jerrychiengct/AlmanacSarawak2026/releases) page.
 2.  Install on your Android device (ensure "Install unknown apps" is enabled if installing from outside the Play Store).
 
 ## Developer
@@ -61,3 +61,4 @@ An all-in-one Android application designed for Sarawakians, featuring a comprehe
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
